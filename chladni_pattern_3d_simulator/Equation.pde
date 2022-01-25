@@ -5,8 +5,8 @@ float detail = 0.00001;
 float tinkle = 0;
 
 void setupEquation() {
-  n = 6;
-  m = 26;
+  n = 7;
+  m = 11;
   L = w;
 }
 
